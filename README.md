@@ -1,13 +1,13 @@
-# Web_scrape_challenge1
+Mission to Mars
 ## Background:
 
 This repository contains a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
 
-## Questions for Exploration:
+## Problems:
 
 Apply scrape to sraping information from some websites.
 
-Use MongoDB and Flask to create a new HTML page to display all collected information.
+Use MongoDB and Flask to create a new HTML page.
 
 ## Methods for Analysis:
 
