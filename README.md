@@ -29,6 +29,19 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 Use Bootstrap to structure the HTML template.
 
+
+![Screenshot (111)](https://user-images.githubusercontent.com/100891182/182627509-506e145e-f887-41ea-82a5-7cc5c482ee1d.png)
+
+
+![Screenshot (110)](https://user-images.githubusercontent.com/100891182/182627479-35a5317e-b895-4746-a580-14b6b40f5256.png)
+
+
+![Screenshot (113)](https://user-images.githubusercontent.com/100891182/182627424-8d532609-b9f6-42ae-b8ee-f31a0bcec233.png)
+
+
+![Screenshot (113)](https://user-images.githubusercontent.com/100891182/182627263-2263481b-b900-45e4-b574-edcede87f023.png)
+
+
 ## Findings:
 
 The updated news from the website.
