@@ -3,7 +3,7 @@ Mission to Mars
 
 This repository contains a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
 
-## Problems:
+## Objectives:
 
 Apply scrape to sraping information from some websites.
 
@@ -39,7 +39,6 @@ Use Bootstrap to structure the HTML template.
 ![Screenshot (113)](https://user-images.githubusercontent.com/100891182/182627424-8d532609-b9f6-42ae-b8ee-f31a0bcec233.png)
 
 
-![Screenshot (113)](https://user-images.githubusercontent.com/100891182/182627263-2263481b-b900-45e4-b574-edcede87f023.png)
 
 
 ## Findings:
