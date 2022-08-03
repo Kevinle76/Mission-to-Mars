@@ -1,7 +1,8 @@
-Mission to Mars
+### Mission to Mars
+
 ## Background:
 
-This repository contains a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
+Building a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
 
 ## Objectives:
 
